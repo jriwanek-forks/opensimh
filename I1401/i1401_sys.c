@@ -93,7 +93,7 @@ const char *sim_stop_messages[SCPE_BASE] = {
     "Invalid A address",
     "Invalid B address",
     "Invalid instruction length",
-    "Invalid modifer",
+    "Invalid modifier",
     "Invalid branch address",
     "Breakpoint",
     "HALT instruction",
